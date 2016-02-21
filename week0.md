@@ -2,15 +2,15 @@
 #WEB
 
 * ### web从0开始之0
-      WEB页面的HTML，CSS，JS客户端是可以查看的哦～你能在平台的源码中找到FLAG么？
+        WEB页面的HTML，CSS，JS客户端是可以查看的哦～你能在平台的源码中找到FLAG么？
 一开始用火狐按F12看了很久都没发现，看了别人的write up才发现。。不知道为什么在火狐上F12搜索不到flag，可能是我的打开方式有误吧
 
 * ### web从0开始之0.1
-      你知道一个网页从输入URL到显示出页面，都经历了啥么？http://ctf.lazysheep.cc:8080/
+        你知道一个网页从输入URL到显示出页面，都经历了啥么？http://ctf.lazysheep.cc:8080/
 根据提示F12很快找到Flag
 
 * ### web从0开始之0.2
-      你知道啥是cookie吗？那么你会修改它吗？http://ctf.lazysheep.cc:8080/web0-2.php
+        你知道啥是cookie吗？那么你会修改它吗？http://ctf.lazysheep.cc:8080/web0-2.php
 。。。纠结了挺久，没想到是把true写成ture，完全没发现；火狐上开发者工具直接修改值就好了
 
 ---
