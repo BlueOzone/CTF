@@ -1,4 +1,4 @@
-     第一次写write up，有点生疏
+第一次写write up，有点生疏
 #WEB
 
 * ### web从0开始之0
